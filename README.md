@@ -12,6 +12,8 @@ you can put your bot files in the repl like commands and stuff, but make sure th
 
 option 2 for self hosting: (DEFINITLY THE EASIER OPTION)
 
-put the following code in your index.js file
+put the following code in your index.js file on repl or what ever you host with:
 
 var _247DiscordJsBotTemplate = require("@chelms21/24-7-discord.js-bot-template")
+
+then get the url and put it in uptime robot like in the above option
