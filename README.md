@@ -1,6 +1,6 @@
 # 24/7 discord bot template
 
-in the .env file change your-token to your discord bots token.
+in the .env file change your-token to your discord bots token. Or you could use the config.json and put your token in it (i use the config.json)
 
 go to repl.it and import this repo and run the repl. there should be some packager files now.
 
