@@ -1,4 +1,3 @@
-# changes in 1.1
+# changes in 1.1.1
 
-- new changelog
-- added new instructions
+-added to github packages
