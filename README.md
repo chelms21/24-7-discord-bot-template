@@ -16,4 +16,4 @@ put the following code in your index.js file on repl or what ever you host with:
 
 var _247DiscordJsBotTemplate = require("@chelms21/24-7-discord.js-bot-template")
 
-then get the url and put it in uptime robot like in the above option
+then you can put in your bot code and get the url and put it in uptime robot like in the above option.
